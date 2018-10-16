@@ -11,6 +11,10 @@
             "width": 48,
             "height": 48,
             "path": "colorstar_48x48.png"
+    },{
+            "width": 96,
+            "height": 96,
+            "path": "colorstar_96x96.png"
     }],
     "uiEntryPoints": [
         {
@@ -20,3 +24,4 @@
        }
     ]
 }
+ 

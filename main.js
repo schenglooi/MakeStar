@@ -38,7 +38,6 @@ document.body.innerHTML = `
                 <input type="text" id="starPointsValue" uxp-quiet="true" readonly=true value="5"/>
             </div>
         </label>
-        <p>&nbsp;</p>
         <label>
             <span>Star point inset percent</span>
             <div class="sliderControl" id="starPointInsetControl">
